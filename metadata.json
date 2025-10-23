@@ -1,0 +1,5 @@
+{
+  "name": "PMCK Health News Brief",
+  "description": "An app that generates and lists health-related news with a focus on Putra Medical Centre and South East Asia. Features tabbed navigation, date filtering, and AI-generated cartoon thumbnails for each story.",
+  "requestFramePermissions": []
+}
